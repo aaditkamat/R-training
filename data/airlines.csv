@@ -1,0 +1,58 @@
+﻿Company,Airplane#,Passengers,Males,Females,Children,Disabled,Suitcases,Pets,Cargo,FlightTime,Weather,Satisfaction,Recommendation
+DiammonAirlines,DA1,375,168,999,34,2,103,Y,3530,Morning,Mostly Cloudy,5,Y
+DiammonAirlines,DA1,375,168,999,34,2,103,Y,3530,Morning,Mostly Cloudy,5,Y
+BayAirlines,BA1,360,180,180,21,-1,342,Y,25020,Night,Foggy,3,Y
+BayAirlines,BA10,191,100,91,35,1,234,N,13800,Morning,Sunny,5,Y
+BayAirlines,BA2,417,208.5,208.5,54,3,391,N,28930,Dawn, ,5,Y
+BayAirlines,BA3,438,219,219,55,3,411, ,30390,Midday,Raining,2,N
+BayAirlines,BA3,438,219,219,55,3,411, ,30390,Midday,Raining,2,N
+BayAirlines,BA4,404,202,202,30,3,497,Y,29210,Dawn,Sunny,4,Y
+BayAirlines,BA5,384,192,192,10,2,438,M,27420,Dawn,Partially Cloudy,2,N
+BayAirlines,BA6,271,146,125,24,5,184,Y,18100,Dawn,Sprinkling,5,Y
+BayAirlines,BA7,211,100,111,24,5,129,Y,13950,Morning,Foggy,3, 
+BayAirlines,BA8,229,125,104,18,2,343,Y,17170,Afternoon,Partially Cloudy,5,Y
+BayAirlines,BA9,332,166,166, ,6,463,Y,24550, ,Raining,4,Y
+CaribbeanAirlines,CA1,112,56,56,10,5,118,Y,7900,Morning,Raining,1,N
+CaribbeanAirlines,CA10,340,999,170,20,6,318,Y,23580,Afternoon,Raining,2,Y
+CaribbeanAirlines,CA2,115,57.5,57.5,12,7,126,N,8160,Afternoon,Sunny,2,N
+CaribbeanAirlines,CA3,145,73,72,14,4,150,Y,10200,Night,Mostly Cloudy,8,N
+CaribbeanAirlines,CA4,171,88,83,14,6,180,Y,12060,Morning,Sprinkling,3,Y
+CaribbeanAirlines,CA5,196,98,98,11,5,196, ,13720,Morning,Foggy,2,N
+CaribbeanAirlines,CA6,204,102,102, ,7,188,Y,2120,Afternoon,Partially Cloudy,2,N
+CaribbeanAirlines,CA7,242,121,121,30,5,233,N,16850,Morning,Raining,1,N
+CaribbeanAirlines,CA7,242,121,121,30,5,233,N,16850,Morning,Raining,1,N
+CaribbeanAirlines,CA8,284,142,142,30,4,277,Y,19810,Dawn,Sunny, ,Y
+CaribbeanAirlines,CA9,315,147,168,50,4,301,Y,21910,Morning,Mostly Cloudy,1,N
+DiammonAirlines,DA10,259,132,127,1,7,438,Y,19920,Afternoon,Partially Cloudy,5,Y
+DiammonAirlines,DA2,211,98,113,25,4,174,Y,14400,Afternoon,Sprinkling,4,Y
+DiammonAirlines,DA3,467,235,232,28,3,151,Y,29530,Night,Foggy,2,N
+DiammonAirlines,DA4,250,125,125,37,-2,433,Y,19330,Dawn, ,0,Y
+DiammonAirlines,DA5,417,210,207,18,7,141, ,26430,Morning,No Raining,1,N
+DiammonAirlines,DA5,417,210,207,18,7,141, ,26430,Morning,No Raining,1,N
+DiammonAirlines,DA6,138,69,69,17,3,125,Y,9530,Morning,Sunny,2,N
+DiammonAirlines,DA7,131,69,62,54,2,944,N,11300,Night,Mostly Cloudy,4,Y
+DiammonAirlines,DA8,348,999,174,-14,3,383,Y,24710,Dawn,Sprinkling,5,Y
+DiammonAirlines,DA9,401,200,201,2,6,979,Y,28830,Morning,Foggy,5,Y
+IslandAirlines,IA1,371,195,176,43, ,281,Y,25070,Morning,Foggy,4,Y
+IslandAirlines,IA1,371,195,176,43, ,281,Y,25070,Morning,Foggy,4,Y
+IslandAirlines,IA10,379,189.5,189.5,56,-1,223,Y,24970,Morning,Sunny,2,N
+IslandAirlines,IA2,274,137,137,45,6,321,Y,19650,Morning,Partially Cloudy,2,N
+IslandAirlines,IA3,217,102,115,52,4,161,Y,14630,Night,Raining,9,Y
+IslandAirlines,IA4,444,222,222,14,1,219,Y,28830,Morning,Sunny,5,Y
+IslandAirlines,IA5,233,117,116,56,1,44,Y,78400,Midday, ,4,Y
+IslandAirlines,IA6,488,244,999,27,4,186,B,31140,Morning,Sprinkling,2, 
+IslandAirlines,IA7,237,120,117,-12,2,251,Y,16730,Afternoon,Foggy,3,Y
+IslandAirlines,IA8,325,174,151,13,6,374, ,23240,Morning,Partially Cloudy,1,N
+IslandAirlines,IA9,478,239,239,28,7,154,Y,30220,Morning,Haivy Raining,1,N
+KrakatoeAirlines,KA1,384,192,192,51,3,385,Y,26890,Morning,Raining,5,N
+KrakatoeAirlines,KA10,410,205,205,16,5,113,Y,25730,Morning,Sprinkling,4,Y
+KrakatoeAirlines,KA2,462,231,231,11, ,431,Y,32030,Morning,Sunny,1,Y
+KrakatoeAirlines,KA2,462,231,231,11, ,431,Y,32030,Morning,Sunny,1,Y
+KrakatoeAirlines,KA3,189,90,99,10,1,122,Y,12560,Morning,Mostly Cloudy,1, 
+KrakatoeAirlines,KA3,189,90,99,10,1,122,Y,12560,Morning,Mostly Cloudy,1, 
+KrakatoeAirlines,KA4,223,111.5,111.5,34,5,475,Y,18130,Morning,Mostly Cloudy,4,Y
+KrakatoeAirlines,KA5,307,143,164,47,6,380,Y,22220,Nightday,Foggy,2,N
+KrakatoeAirlines,KA6,196,98,98,38,6,163,Y,13390,Morning,Partially Cloudy,5,Y
+KrakatoeAirlines,KA7,107,59,48,9,5,456,Y,10980,Morning,Raining,4,Y
+KrakatoeAirlines,KA8,396,198,198,43,4,353,Y,27290,Dawn,Sunny,4,Y
+KrakatoeAirlines,KA9,292,146,146,28,3,319,O,20710, ,Mostly Cloudy,3,Y
